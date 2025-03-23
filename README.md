@@ -33,12 +33,3 @@ KPIs for weekly, monthly, daily sales
 Comparative monthly vs. average trends
 
 Sales breakdowns by category and time
-
-
-
-🧮 SQL:
-Dynamic dashboards using query filters (e.g., monthly category drilldowns)
-
-Historical comparisons or regional overlays (if added)
-
-➡️ Let me know if you'd like help setting up any automation script, forecasting model, or even turning this into a report format (PDF/PowerPoint).
