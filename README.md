@@ -33,3 +33,5 @@ KPIs for weekly, monthly, daily sales
 Comparative monthly vs. average trends
 
 Sales breakdowns by category and time
+
+
